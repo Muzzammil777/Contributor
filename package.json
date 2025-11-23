@@ -1,5 +1,5 @@
 {
-  "name": "drone_management_system",
+  "name": "contributer",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Muzzammil777/Drone_Management_System.git"
+    "url": "git+https://github.com/Muzzammil777/contributer.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Muzzammil777/Drone_Management_System/issues"
+    "url": "https://github.com/Muzzammil777/contributer/issues"
   },
-  "homepage": "https://github.com/Muzzammil777/Drone_Management_System#readme",
+  "homepage": "https://github.com/Muzzammil777/contributer#readme",
   "description": "",
   "dependencies": {
     "file": "^0.2.2",
